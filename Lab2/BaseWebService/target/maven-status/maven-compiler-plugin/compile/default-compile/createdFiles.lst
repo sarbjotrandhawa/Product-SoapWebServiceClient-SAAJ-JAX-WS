@@ -1,0 +1,4 @@
+Models\Product.class
+com\humber\learning\basewebservice\resources\JavaEE8Resource.class
+Services\ProductsService.class
+com\humber\learning\basewebservice\JAXRSConfiguration.class
